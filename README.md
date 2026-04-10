@@ -29,10 +29,10 @@ Passionate about solving real-world problems through efficient system design, st
 
   <div style="flex: 1 1 300px; padding: 10px;">
   
-  🔭 Building scalable projects with Java, Web Tech & Real-world Systems
- 🌱 Exploring AI, Backend Engineering & System Design
- ❓ Let’s talk about Networking, Databases, Java Projects & Problem Solving
- ⚡ Fun fact: Debugging feels better at 2 AM 🌙  
+  **🔭** Building scalable projects with Java, Web Tech & Real-world Systems
+ **🌱** Exploring AI, Backend Engineering & System Design
+ **❓** Let’s talk about Networking, Databases, Java Projects & Problem Solving
+ **⚡** Fun fact: Debugging feels better at 2 AM 🌙  
   
   </div>
 
