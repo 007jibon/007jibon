@@ -48,24 +48,25 @@ Passionate about solving real-world problems through efficient system design, st
 ## 🛠️ Languages and Tools  
 
 <p align="center">
-  <img src="https://profilinator.rishav.dev/skills-assets/flutterio-icon.svg" alt="Flutter" height="50"/>
-  <img src="https://profilinator.rishav.dev/skills-assets/dartlang-icon.svg" alt="Dart" height="50"/>
+ 
+  <img src="https://profilinator.rishav.dev/skills-assets/c-original.svg" alt="C" height="50"/>
+  <img src="https://profilinator.rishav.dev/skills-assets/cplusplus-original.svg" alt="C++" height="50"/>
   <img src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="Java" height="50"/>
   <img src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50"/>
   <img src="https://profilinator.rishav.dev/skills-assets/oracle-original.svg" alt="Oracle" height="50"/>
-  <img src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="50"/>
+  
   <img src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50"/>
   <img src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50"/>
-  <img src="https://profilinator.rishav.dev/skills-assets/express-original-wordmark.svg" alt="Express.js" height="50"/>
-  <img src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="50"/>
+  
+  
   <img src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50"/>
   <img src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50"/>
-  <img src="https://profilinator.rishav.dev/skills-assets/c-original.svg" alt="C" height="50"/>
-  <img src="https://profilinator.rishav.dev/skills-assets/cplusplus-original.svg" alt="C++" height="50"/>
+  
+  
 </p>
 
 
 
 ---
 
-![Profile views counter](https://komarev.com/ghpvc/?username=rahimuj570&&style=flat-square)  
+![Profile views counter](https://komarev.com/ghpvc/?username=007jibon&&style=flat-square)  
