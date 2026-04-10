@@ -1,13 +1,13 @@
-## Hey 👋, I'm Rahimujjaman!  
+## Hey 👋, I'm Md. Shafiqul islam!  
 
 <p align="center">
-  <a href="https://github.com/rahimuj570" target="_blank">
+  <a href="https://github.com/007jibon" target="_blank">
     <img src="https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white" alt="github"/>
   </a>
-  <a href="https://linkedin.com/in/rahimuj570" target="_blank">
+  <a href="https://linkedin.com/in/007jibon" target="_blank">
     <img src="https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin"/>
   </a>
-  <a href="https://www.facebook.com/rahimuj570" target="_blank">
+  <a href="https://www.facebook.com/s.jibon02" target="_blank">
     <img src="https://img.shields.io/badge/facebook-%232E87FB.svg?&style=for-the-badge&logo=facebook&logoColor=white" alt="facebook"/>
   </a>
   <a href="https://instagram.com/rahimuj570" target="_blank">
@@ -18,11 +18,9 @@
 ---
 
 ### Glad to see you here!  
-I’m a CSE student and aspiring Junior Software Developer.  
-Flutter & Dart are my primary focus, with experience in Java and RESTful APIs.  
-
-I enjoy building practical projects, learning system design basics, and writing clean, maintainable code.  
-Currently improving my Flutter skills and backend fundamentals.  
+I’m a Computer Science graduate with strong practical experience in backend development, database systems, and network design. Skilled in building Java EE-based web applications, designing secure enterprise networks, and developing machine learning models for data-driven decision making.
+Passionate about solving real-world problems through efficient system design, structured data management, and scalable backend solutions, while continuously improving technical and analytical skills in collaborative environments.
+  
 
 ---
 ## 🚀 Rapidfire  
