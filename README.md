@@ -29,10 +29,10 @@ Passionate about solving real-world problems through efficient system design, st
 
   <div style="flex: 1 1 300px; padding: 10px;">
   
-  **🔭** Currently building Flutter applications through academic and personal projects  
-  **🌱** Learning advanced Flutter concepts while strengthening backend fundamentals with Java  
-  **❓** Ask me about Flutter, Dart, RESTful APIs, and Java-based academic projects  
-  **⚡** Fun fact: Dark mode stays on — day or night 🌙  
+  🔭 Building scalable projects with Java, Web Tech & Real-world Systems
+ 🌱 Exploring AI, Backend Engineering & System Design
+ ❓ Let’s talk about Networking, Databases, Java Projects & Problem Solving
+ ⚡ Fun fact: Debugging feels better at 2 AM 🌙  
   
   </div>
 
